@@ -30,6 +30,6 @@ var numberSlicesPerPerson;
 
  numberSlicesPerPerson = numberOfSlices * numberPizzasOrdered / numberOfPeopleAtTheParty;
 
-Console.log(numberSlicesPerPerson);
+console.log(numberSlicesPerPerson);
 
 
