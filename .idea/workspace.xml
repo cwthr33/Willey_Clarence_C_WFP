@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79c2828a-a372-402b-976b-93628cb48369" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Expressions_Industry/Industry/script2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions_Industry/index.html" afterPath="$PROJECT_DIR$/Expressions_Industry/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions_Personal/Personal/script1.js" afterPath="$PROJECT_DIR$/Expressions_Personal/Personal/script1.js" />
     </list>
     <ignored path="Willey_Clarence_C_WFP.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369360056884" ignored="false" />
-    <file path="/index.html" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369364169844" ignored="false" />
+    <file path="/index.html" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369366513581" ignored="false" />
     <file path="/script1.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369366210627" ignored="false" />
     <file path="/script.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369346233824" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,19 +31,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="script1.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Expressions_Personal/Personal/script1.js">
+      <file leaf-file-name="script2.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Expressions_Industry/Industry/script2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="38" selection-start="504" selection-end="504" vertical-scroll-proportion="0.6403846">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Expressions_Personal/index.html">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Expressions_Industry/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="51" selection-start="122" selection-end="122" vertical-scroll-proportion="-2.72">
+            <state line="7" column="35" selection-start="129" selection-end="129" vertical-scroll-proportion="0.24040404">
               <folding />
             </state>
           </provider>
@@ -77,6 +79,8 @@
         <option value="$PROJECT_DIR$/Expressions_Personal/script1.js" />
         <option value="$PROJECT_DIR$/Expressions_Personal/index.html" />
         <option value="$PROJECT_DIR$/Expressions_Personal/Personal/script1.js" />
+        <option value="$PROJECT_DIR$/Expressions_Industry/Industry/script2.js" />
+        <option value="$PROJECT_DIR$/Expressions_Industry/index.html" />
       </list>
     </option>
   </component>
@@ -138,7 +142,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Expressions_Personal" />
+              <option name="myItemId" value="Expressions_Industry" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -152,11 +156,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Expressions_Personal" />
+              <option name="myItemId" value="Expressions_Industry" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Personal" />
+              <option name="myItemId" value="Industry" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -314,20 +318,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Expressions_Personal/Personal/script1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="25" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Associatingjs/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="61" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Associatingjs/Conditional_Wacky/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="0" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0">
@@ -404,6 +394,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions_Personal/Personal/script1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="31" selection-start="507" selection-end="507" vertical-scroll-proportion="0.68653846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Expressions_Personal/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="51" selection-start="122" selection-end="122" vertical-scroll-proportion="-2.72">
@@ -411,9 +408,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions_Personal/Personal/script1.js">
+    <entry file="file://$PROJECT_DIR$/Expressions_Industry/Industry/script2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="38" selection-start="504" selection-end="504" vertical-scroll-proportion="0.6403846">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions_Industry/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="35" selection-start="129" selection-end="129" vertical-scroll-proportion="0.24040404">
           <folding />
         </state>
       </provider>

@@ -8,7 +8,7 @@ var month = prompt('How many weeks in a year? \n Please enter a number 1 - 52.')
 
 var result = (days * week) * month;
 
-alert('You brush your teeth' + result + 'times a year');
+alert('You brush your teeth ' + result + ' times a year');
 
 
 
