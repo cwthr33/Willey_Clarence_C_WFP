@@ -6,8 +6,10 @@ var week = prompt('How many days a week do you brush your teeth?'); // collectin
 
 var month = prompt('How many months out of the year do you brush your teeth? \n Please enter a number 1 - 12.');  // last variable
 
-var result = days *
+var result = (days * week) * month;
 
 
 
-console.log(days);
+
+
+console.log(result);
