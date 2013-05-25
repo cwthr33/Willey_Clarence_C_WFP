@@ -1,7 +1,7 @@
 // Clarence Willey 5/24/13 Conditionals
            // blue M&M calculator
   var blueCandy = function(red, yellow, green){
-    var blue = (red * green) / yellow
+    var blue = (red * green) / yellow  // formula code does
            return blue;    // spit out here
 
 }
