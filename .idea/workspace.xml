@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79c2828a-a372-402b-976b-93628cb48369" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conditionals_Industry/index.html" />
-      <change type="MOVED" beforePath="C:\Users\Ari\Documents\GitHub\Willey_Clarence_C_WFP\Conditionals_Industry\script.js" afterPath="$PROJECT_DIR$/Conditionals_Industry/Conditions/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_Industry/Conditions/script.js" afterPath="$PROJECT_DIR$/Conditionals_Industry/Conditions/script.js" />
     </list>
     <ignored path="Willey_Clarence_C_WFP.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369441670008" ignored="false" />
     <file path="/index.html" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369448039587" ignored="false" />
     <file path="/script1.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369445858902" ignored="false" />
-    <file path="/script.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369346233824" ignored="false" />
+    <file path="/script.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369449489042" ignored="false" />
     <file path="/script2.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369369079839" ignored="false" />
     <file path="/script3.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369371198348" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,19 +31,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals_Industry/Conditions/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
+            <state line="5" column="1" selection-start="183" selection-end="365" vertical-scroll-proportion="0.15151516">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Conditionals_Industry/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="51" selection-start="114" selection-end="114" vertical-scroll-proportion="0.12686567">
+            <state line="4" column="51" selection-start="114" selection-end="114" vertical-scroll-proportion="-2.72">
               <folding />
             </state>
           </provider>
@@ -71,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Conditionals_Personal/script.js" />
         <option value="$PROJECT_DIR$/Conditionals_Industry/script.js" />
         <option value="$PROJECT_DIR$/Conditional_Wacky/script.js" />
         <option value="$PROJECT_DIR$/Conditional_Wacky/index.html" />
@@ -87,6 +85,7 @@
         <option value="$PROJECT_DIR$/Conditionals_Personal/index.html" />
         <option value="$PROJECT_DIR$/Conditionals_Personal/Personal/script1.js" />
         <option value="$PROJECT_DIR$/Conditionals_Industry/index.html" />
+        <option value="$PROJECT_DIR$/Conditionals_Industry/Conditions/script.js" />
       </list>
     </option>
   </component>
@@ -260,7 +259,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -421,13 +420,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Industry/Conditions/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_Personal/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="6" selection-start="0" selection-end="145" vertical-scroll-proportion="0.22201492">
@@ -437,7 +429,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_Industry/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="51" selection-start="114" selection-end="114" vertical-scroll-proportion="0.12686567">
+        <state line="4" column="51" selection-start="114" selection-end="114" vertical-scroll-proportion="-2.72">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals_Industry/Conditions/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="1" selection-start="183" selection-end="365" vertical-scroll-proportion="0.15151516">
           <folding />
         </state>
       </provider>
