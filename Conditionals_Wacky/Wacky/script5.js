@@ -2,7 +2,7 @@
            // blue M&M calculator
   var blueCandy = function(red, yellow, green){
     var blue = (red * green) / yellow
-           return blue;
+           return blue;    // spit out here
 
 }
 
