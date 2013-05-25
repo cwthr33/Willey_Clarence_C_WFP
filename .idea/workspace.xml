@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79c2828a-a372-402b-976b-93628cb48369" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_Personal/Personal/script1.js" afterPath="$PROJECT_DIR$/Conditionals_Personal/Personal/script1.js" />
-    </list>
+    <list default="true" id="79c2828a-a372-402b-976b-93628cb48369" name="Default" comment="" />
     <ignored path="Willey_Clarence_C_WFP.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369441670008" ignored="false" />
@@ -31,19 +29,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="script1.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="script1.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Conditionals_Personal/Personal/script1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="71" selection-start="363" selection-end="363" vertical-scroll-proportion="0.24242425">
+            <state line="8" column="71" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals_Personal/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="29" selection-start="145" selection-end="145" vertical-scroll-proportion="-6.12">
+            <state line="9" column="29" selection-start="145" selection-end="145" vertical-scroll-proportion="0.28544775">
               <folding />
             </state>
           </provider>
@@ -421,16 +419,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Personal/index.html">
+    <entry file="file://$PROJECT_DIR$/Conditionals_Personal/Personal/script1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="29" selection-start="145" selection-end="145" vertical-scroll-proportion="-6.12">
+        <state line="8" column="71" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Personal/Personal/script1.js">
+    <entry file="file://$PROJECT_DIR$/Conditionals_Personal/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="71" selection-start="363" selection-end="363" vertical-scroll-proportion="0.24242425">
+        <state line="9" column="29" selection-start="145" selection-end="145" vertical-scroll-proportion="0.28544775">
           <folding />
         </state>
       </provider>
