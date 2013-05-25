@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79c2828a-a372-402b-976b-93628cb48369" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_Personal/Personal/script1.js" afterPath="$PROJECT_DIR$/Conditionals_Personal/Personal/script1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conditionals_Industry/index.html" />
+      <change type="MOVED" beforePath="C:\Users\Ari\Documents\GitHub\Willey_Clarence_C_WFP\Conditionals_Industry\script.js" afterPath="$PROJECT_DIR$/Conditionals_Industry/Conditions/script.js" />
     </list>
     <ignored path="Willey_Clarence_C_WFP.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369441670008" ignored="false" />
-    <file path="/index.html" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369441937891" ignored="false" />
+    <file path="/index.html" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369448039587" ignored="false" />
     <file path="/script1.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369445858902" ignored="false" />
     <file path="/script.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369346233824" ignored="false" />
     <file path="/script2.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369369079839" ignored="false" />
@@ -31,19 +32,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="script1.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Conditionals_Personal/Personal/script1.js">
+      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conditionals_Industry/Conditions/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="26" selection-start="381" selection-end="381" vertical-scroll-proportion="0.3030303">
+            <state line="3" column="0" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Conditionals_Personal/index.html">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Conditionals_Industry/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="29" selection-start="145" selection-end="145" vertical-scroll-proportion="-6.12">
+            <state line="4" column="51" selection-start="114" selection-end="114" vertical-scroll-proportion="0.12686567">
               <folding />
             </state>
           </provider>
@@ -85,6 +86,7 @@
         <option value="$PROJECT_DIR$/Expressions_Wacky/Wacky/script3.js" />
         <option value="$PROJECT_DIR$/Conditionals_Personal/index.html" />
         <option value="$PROJECT_DIR$/Conditionals_Personal/Personal/script1.js" />
+        <option value="$PROJECT_DIR$/Conditionals_Industry/index.html" />
       </list>
     </option>
   </component>
@@ -162,11 +164,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Conditionals_Personal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Personal" />
+              <option name="myItemId" value="Conditionals_Industry" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -181,6 +179,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Conditionals_Industry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conditions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -206,6 +208,7 @@
       <recent name="C:\Users\Ari\Documents\GitHub\Willey_Clarence_C_WFP\Conditional_Wacky" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ari\Documents\GitHub\Willey_Clarence_C_WFP\Conditionals_Industry\Conditions" />
       <recent name="C:\Users\Ari\Documents\GitHub\Willey_Clarence_C_WFP\Conditionals_Personal\Personal" />
       <recent name="C:\Users\Ari\Documents\GitHub\Willey_Clarence_C_WFP\Expressions_Personal\Personal" />
       <recent name="C:\Users\Ari\Documents\GitHub\Willey_Clarence_C_WFP\Expressions_Personal" />
@@ -339,11 +342,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Associatingjs/Conditional_Wacky/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="4" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Associatingjs/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="61" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0">
@@ -364,11 +362,6 @@
     <entry file="file://$PROJECT_DIR$/Expressions_Personal/Personal/script1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="11" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Industry/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Associatingjs/index.html">
@@ -421,16 +414,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Personal/index.html">
+    <entry file="file://$PROJECT_DIR$/Conditionals_Personal/Personal/script1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="29" selection-start="145" selection-end="145" vertical-scroll-proportion="-6.12">
+        <state line="10" column="26" selection-start="381" selection-end="381" vertical-scroll-proportion="0.3030303">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Personal/Personal/script1.js">
+    <entry file="file://$PROJECT_DIR$/Conditionals_Industry/Conditions/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="26" selection-start="381" selection-end="381" vertical-scroll-proportion="0.3030303">
+        <state line="3" column="0" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals_Personal/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="6" selection-start="0" selection-end="145" vertical-scroll-proportion="0.22201492">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals_Industry/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="51" selection-start="114" selection-end="114" vertical-scroll-proportion="0.12686567">
           <folding />
         </state>
       </provider>
