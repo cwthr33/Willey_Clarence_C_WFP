@@ -3,7 +3,7 @@
  // I work in a call center so I will use this to calc calls per hr for an agent
 
  var callsPerHr = function(calls,secsPshift,secsPhr){
-     var callspHr = calls / (secsPshift / secsPhr)
+     var callspHr = calls / (secsPshift / secsPhr)        // code to run function
      return callspHr;
 
  }
