@@ -10,7 +10,7 @@
     <file path="/index.html" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369598875684" ignored="false" />
     <file path="/script1.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369598658494" ignored="false" />
     <file path="/script.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369598624348" ignored="false" />
-    <file path="/script2.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369599225686" ignored="false" />
+    <file path="/script2.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369599310416" ignored="false" />
     <file path="/script3.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369371198348" ignored="false" />
     <file path="/script5.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369453595932" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,7 +44,7 @@
       <file leaf-file-name="script2.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week 3/Wacky/Conditional_Wacky/script2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="96" selection-start="125" selection-end="125" vertical-scroll-proportion="0.06238532">
+            <state line="3" column="79" selection-start="205" selection-end="205" vertical-scroll-proportion="0.09357798">
               <folding />
             </state>
           </provider>
@@ -463,7 +463,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 3/Wacky/Conditional_Wacky/script2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="96" selection-start="125" selection-end="125" vertical-scroll-proportion="0.06238532">
+        <state line="3" column="79" selection-start="205" selection-end="205" vertical-scroll-proportion="0.09357798">
           <folding />
         </state>
       </provider>
