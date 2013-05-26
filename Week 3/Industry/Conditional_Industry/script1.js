@@ -1,4 +1,4 @@
 // Clarence Willey Conditional
 
 
- var name prompt('Enter your name in the space provided below.');
+ var name = prompt('Enter your name in the space provided below.');// collecting the persons name
