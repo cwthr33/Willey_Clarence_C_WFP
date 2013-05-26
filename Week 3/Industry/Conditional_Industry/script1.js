@@ -8,3 +8,5 @@
 
  console.log(total); // testing code with this
 
+(total)? (name + ' you will be paid ' + total + ' dollars for your hours worked this week!')
+
