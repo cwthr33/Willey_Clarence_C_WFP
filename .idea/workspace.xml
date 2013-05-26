@@ -10,7 +10,7 @@
     <file path="/index.html" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369598875684" ignored="false" />
     <file path="/script1.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369598658494" ignored="false" />
     <file path="/script.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369598624348" ignored="false" />
-    <file path="/script2.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369599851265" ignored="false" />
+    <file path="/script2.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369599963970" ignored="false" />
     <file path="/script3.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369371198348" ignored="false" />
     <file path="/script5.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369453595932" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,7 +44,7 @@
       <file leaf-file-name="script2.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week 3/Wacky/Conditional_Wacky/script2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="71" selection-start="396" selection-end="396" vertical-scroll-proportion="0.1559633">
+            <state line="6" column="20" selection-start="417" selection-end="417" vertical-scroll-proportion="0.18715596">
               <folding />
             </state>
           </provider>
@@ -286,7 +286,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="10" width="1346" height="728" extended-state="1" />
+    <frame x="10" y="10" width="1346" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -463,7 +463,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 3/Wacky/Conditional_Wacky/script2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="71" selection-start="396" selection-end="396" vertical-scroll-proportion="0.1559633">
+        <state line="6" column="20" selection-start="417" selection-end="417" vertical-scroll-proportion="0.18715596">
           <folding />
         </state>
       </provider>
