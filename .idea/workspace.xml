@@ -10,7 +10,7 @@
     <file path="/index.html" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369600135626" ignored="false" />
     <file path="/script1.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369598658494" ignored="false" />
     <file path="/script.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369598624348" ignored="false" />
-    <file path="/script2.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369601587242" ignored="false" />
+    <file path="/script2.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369601642003" ignored="false" />
     <file path="/script3.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369371198348" ignored="false" />
     <file path="/script5.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369453595932" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,7 +35,7 @@
       <file leaf-file-name="script2.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week 3/Wacky/Conditional_Wacky/script2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="157" selection-start="624" selection-end="624" vertical-scroll-proportion="0.28073394">
+            <state line="10" column="91" selection-start="751" selection-end="751" vertical-scroll-proportion="0.37431192">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -465,7 +465,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 3/Wacky/Conditional_Wacky/script2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="157" selection-start="624" selection-end="624" vertical-scroll-proportion="0.28073394">
+        <state line="10" column="91" selection-start="751" selection-end="751" vertical-scroll-proportion="0.37431192">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
