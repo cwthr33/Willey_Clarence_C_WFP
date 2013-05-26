@@ -6,4 +6,5 @@
  var pay = prompt('Please enter your hourly rate of pay.\n Example 12.00.');// collecting the persons pay rate
  var total = hours * pay; // here we will calculate the total pay earned
 
+ console.log(total);
 
