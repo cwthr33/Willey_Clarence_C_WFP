@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79c2828a-a372-402b-976b-93628cb48369" name="Default" comment="" />
+    <list default="true" id="79c2828a-a372-402b-976b-93628cb48369" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 3/Industry/Conditional_Industry/script1.js" afterPath="$PROJECT_DIR$/Week 3/Industry/Conditional_Industry/script1.js" />
+    </list>
     <ignored path="Willey_Clarence_C_WFP.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369533919958" ignored="false" />
@@ -33,7 +35,7 @@
       <file leaf-file-name="script1.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week 3/Industry/Conditional_Industry/script1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="72" selection-start="437" selection-end="437" vertical-scroll-proportion="0.18715596">
+            <state line="7" column="0" selection-start="439" selection-end="439" vertical-scroll-proportion="0.21834862">
               <folding />
             </state>
           </provider>
@@ -483,7 +485,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 3/Industry/Conditional_Industry/script1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="72" selection-start="437" selection-end="437" vertical-scroll-proportion="0.18715596">
+        <state line="7" column="0" selection-start="439" selection-end="439" vertical-scroll-proportion="0.21834862">
           <folding />
         </state>
       </provider>
