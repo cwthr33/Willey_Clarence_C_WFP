@@ -1,4 +1,4 @@
-// Clarence Willey Conditional
+// Clarence Willey Conditional_Wacky
 
 var name = prompt('Hey help me out and enter your name under here. ');// collecting name
 var numOne = prompt('How much wood could a Woodchuck chuck?'); // collecting data from person
