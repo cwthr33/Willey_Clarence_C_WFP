@@ -10,6 +10,6 @@
 
 (total >= 480)? console.log(name + ' , you will be paid ' + total + ' dollars for your hours worked this week!') : console.log(name + ' , because you worked less than your scheduled 40 hours you will be paid ' + total + ' dollars this week. Please remember attendance is important.');   // deciding what to say if true or false
 
-console.log(total >= 480); // testing code with this
+
 
 
