@@ -7,6 +7,6 @@
     var answer = when * hours * min;   // formula to fo math to find the answer
   console.log(answer);  // printing the answer to the console
 
-   (answer > 4320)? console.log('I miss you so much!') : console.log('I just saw you yesterday!')
+   (answer > 4320)? console.log('I miss you so much!') : console.log('I just saw you yesterday!'); //decision time
 
 
