@@ -3,14 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="79c2828a-a372-402b-976b-93628cb48369" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 3/Conditionals/Conditional1/script.js" afterPath="$PROJECT_DIR$/Week 3/Conditionals/Conditional1/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Willey_Clarence_C_WFP.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369533919958" ignored="false" />
     <file path="/index.html" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369534161748" ignored="false" />
     <file path="/script1.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369445858902" ignored="false" />
-    <file path="/script.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369535134728" ignored="false" />
+    <file path="/script.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369535760000" ignored="false" />
     <file path="/script2.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369369079839" ignored="false" />
     <file path="/script3.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369371198348" ignored="false" />
     <file path="/script5.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369453595932" ignored="false" />
@@ -36,7 +35,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week 3/Conditionals/Conditional1/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="117" selection-start="261" selection-end="261" vertical-scroll-proportion="0.09090909">
+            <state line="4" column="5" selection-start="286" selection-end="286" vertical-scroll-proportion="0.121212125">
               <folding />
             </state>
           </provider>
@@ -415,7 +414,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 3/Conditionals/Conditional1/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="117" selection-start="261" selection-end="261" vertical-scroll-proportion="0.09090909">
+        <state line="4" column="5" selection-start="286" selection-end="286" vertical-scroll-proportion="0.121212125">
           <folding />
         </state>
       </provider>
