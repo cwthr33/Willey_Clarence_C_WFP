@@ -9,7 +9,7 @@
     <file path="/Dummy.txt" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369533919958" ignored="false" />
     <file path="/index.html" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369534161748" ignored="false" />
     <file path="/script1.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369445858902" ignored="false" />
-    <file path="/script.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369537064648" ignored="false" />
+    <file path="/script.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369589770938" ignored="false" />
     <file path="/script2.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369369079839" ignored="false" />
     <file path="/script3.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369371198348" ignored="false" />
     <file path="/script5.js" changelist="79c2828a-a372-402b-976b-93628cb48369" time="1369453595932" ignored="false" />
@@ -35,7 +35,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week 3/Conditionals/Conditional1/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="57" selection-start="201" selection-end="201" vertical-scroll-proportion="0.09357798">
+            <state line="6" column="39" selection-start="633" selection-end="633" vertical-scroll-proportion="0.21834862">
               <folding />
             </state>
           </provider>
@@ -414,7 +414,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 3/Conditionals/Conditional1/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="57" selection-start="201" selection-end="201" vertical-scroll-proportion="0.09357798">
+        <state line="6" column="39" selection-start="633" selection-end="633" vertical-scroll-proportion="0.21834862">
           <folding />
         </state>
       </provider>
