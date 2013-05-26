@@ -5,3 +5,4 @@ var numOne = prompt('How much wood could a Woodchuck chuck?'); // collecting dat
 var numTwo = prompt('How many guitarists does it take to screw in a light bulb?'); // collecting data for code
 var answer = numOne * numTwo; // multiplying number one and number two
 
+(answer > 100) ?
