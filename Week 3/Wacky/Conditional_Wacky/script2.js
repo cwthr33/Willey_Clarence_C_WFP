@@ -1,4 +1,5 @@
 // Clarence Willey Conditional_Wacky
+// this is just a funny little thing that will spit out a code
 
 var name = prompt('Hey help me out and enter your name under here. ');// collecting name
 var numOne = prompt('How much wood could a Woodchuck chuck?'); // collecting data from person
